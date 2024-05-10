@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "AZ-900 - Implement the Azure IOT",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/Philip989/Implement-the-Azure-IOT-Az-900-/main/07-Implement%20the%20Azure%20IoT%20Hub.md",
+        "Order": 1
+      }
+    ]
+  }
+]
